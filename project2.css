@@ -1,0 +1,65 @@
+.titre{
+    font-size: 52px;
+font-weight: 20px;
+}
+.div{
+    width: 350px;
+    height: 430px;
+    border: none;
+   background-color: aliceblue;
+    
+}
+.img{
+    width: 350px;
+    height: 180px;
+}
+.para3{
+    font-size: 17px;
+    color: dodgerblue;
+    font-weight: 700;
+    margin: 25px;
+    
+    
+}
+.para4{
+    align-content: center;
+    margin: 25px;
+    font-weight: 540;
+    
+}
+.touteslesdivisions{
+display: flex;
+align-content: space-around;
+gap: 65px;
+justify-content: center;
+}
+.button{
+    background-color: #bfbfbf;
+    margin: auto;
+    border-style: outset;
+    border-color: #a7a2a2cc;
+}
+.dernierbutton{
+    background-color: white;
+    border: solid dodgerblue;
+    color: dodgerblue;
+    width: 180px;
+    height: 50px;
+    font-size: 19px;
+}
+.divbutton{
+    text-align: center;
+}
+.para12{
+    color: gray;
+    text-align: center;
+}
+body
+{
+    background-color:#dcdcdc;
+}
+.stylebuttons{
+    width: 5cm;
+    text-align: center;
+    height: 0.96cm;
+}
